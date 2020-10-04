@@ -1,6 +1,9 @@
 {
   "1.0.0":{
-    "buildid":"7fc1baff976aeca4"
+    "buildid":"7fc1baff976aeca4",
+    "s1_to_s21":"-B8",
+    "p1s1_to_p2s1":"-1DB10",
+    "p2s1_to_p3s1":"6D6D0"
   },
   "1.1.0":{
     "buildid":"b0d6d16556b61bf5"
@@ -53,6 +56,8 @@
   },
   "1.5.0":{
     "buildid":"0209750a17f48cb8",
-    "item":"ABC25840"
+    "item":"ABC25840",
+    "p1s1_to_p2s1":"76390",
+    "p2s1_to_p3s1":"76390"
   }
 }
