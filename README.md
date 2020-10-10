@@ -1,7 +1,7 @@
 # ACNHCG-info
 Animal Crossing New Horizons Code Generator version and offset information.
 
-I've set up this repository to make it easier for trusted community members to update offsets for the code generator.
+I've set up this repository to make it easier for trusted community members to update offsets for the code generator. It's important that this file be valid JSON, so please use a JSON validator. I like [JSON Formatter](https://jsonformatter.curiousconcept.com/) if you want to be able to fix JSON automatically, and [JSONLint.com](https://jsonlint.com/) if you just want to validate.
 
 The generator can figure out most of the other codes on its own, it just needs initial offsets to seed its calculations. So a given section for a version `1.N.0` might look something like:
 
@@ -16,7 +16,7 @@ The generator can figure out most of the other codes on its own, it just needs i
     }
 ```
 
-And it's also totally cool to just leave off information you don't have like:
+And it's also totally cool to just leave off information you don't have, or information that hasn't changed. The generator will automatically use the most recent values where applicable, and disable sections if they're a minor point version or more out-of-date. Example:
 
 ```json
   "1.N.0":{
