@@ -67,4 +67,10 @@
     "buildid":"36eeba0c26f14216",
     "item":"AD3C7FD8"
   }
+  "1.7.0":{
+    "buildid":"0400F824B4DA556E",
+    "item":"ACDAD530",
+    "p1s1_to_p2s1":"10E3A8",
+    "p2s1_to_p3s1":"10E3A8"
+  }
 }
