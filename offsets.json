@@ -69,6 +69,13 @@
   },
   "1.7.0":{
     "buildid":"0400F824B4DA556E",
-    "item":"ACDAD530"
+    "item":"ACDAD530",
+    "p1s1_to_p2s1":"10E3A8",
+    "p2s1_to_p3s1":"10E3A8",
+    "p3s1_to_p4s1":"10E3A8",
+    "p4s1_to_p5s1":"10E3A8",
+    "p5s1_to_p6s1":"10E3A8",
+    "p6s1_to_p7s1":"10E3A8",
+    "p7s1_to_p8s1":"10E3A8"
   }
 }
